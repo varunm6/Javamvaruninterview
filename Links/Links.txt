@@ -1,0 +1,9 @@
+https://youtu.be/eYCOzPx3ht8
+https://youtu.be/iX8g4LqF8p8 - authentications
+https://youtu.be/hLlGAQ5NfTE -exception handling
+kafka:
+https://youtu.be/Q7tU0B1bnSE
+https://youtu.be/9LDYr8fm8Mw
+
+java new features : https://youtu.be/HzzYTgkaWv4
+ comparable vs comparator: https://youtu.be/Qn0uk50gMUM
